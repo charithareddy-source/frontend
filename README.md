@@ -1,2 +1,1 @@
-# frontend
-fast_food
+# fast-food-website
